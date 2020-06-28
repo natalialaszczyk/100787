@@ -1,0 +1,95 @@
+* 
+{
+margin: 0;
+padding: 0;
+font-family:<link href="https://fonts.googleapis.com/css2?family=Halant&display=swap" rel="stylesheet">;
+box-sizing: border-box;}
+
+body {
+background-color:#000008}
+
+
+
+#wrapper{
+max-width: 1000px;
+margin:0 auto 0 auto;
+background-color: black;}
+
+header img {
+width:100%; 
+display: block;}
+
+nav {
+background-color: #000008; 
+font-size: 22px;}
+
+nav a {}
+
+a.menu {
+display: inline-block; 
+width: 24%;
+padding: 15px 30px 15px 30px;
+color: #fdf7f7; 
+text-decoration: none; 
+text-align: center;}
+
+a.menu:hover {
+font-size:26px; 
+font-weight: 100}
+
+.active {
+font-weight: 100px; 
+font-size: 20px;}
+
+article {
+margin-top:3px;
+margin-bottom: 20px;}
+
+article h1{
+font-size: 30px;
+text-align: center;
+margin:0 10% 20px 10%;
+padding-bottom: 10px;
+border-bottom: 0.5px solid #f7fdfd;}
+
+img.vessel{
+float:right;
+padding: 10px;
+width: 60%;}
+
+
+
+img.vase{
+float:left;
+padding: 10px;
+width: 40%;}
+
+img.chair{
+float:;
+padding: 10px;
+width: 40%;}
+    
+img.hanger{
+float:right;
+padding-left: 60px; 
+padding-bottom: 200px;
+padding-top: 10 px;
+width: 60%;}
+    
+article p {
+margin-left: 70px;
+margin-top: 40px;
+text-align:justify;
+line-height: 25px; 
+font-size: 22px;
+padding: 15px 0 15px 0;}
+}
+
+footer {
+height: 40px;
+color: beige;
+line-height: 30px;
+text-align: center;
+margin-top: 300px;
+border-top: 0.5px solid #f7fdfd;}
+
